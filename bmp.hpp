@@ -1,3 +1,5 @@
+// https://github.com/baderouaich/BitmapPlusPlus
+
 #pragma once
 #include <fstream>   // std::*fstream
 #include <vector>    // std::vector
